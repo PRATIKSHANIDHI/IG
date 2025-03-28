@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Background Shape -->
+  <rect x="10" y="50" width="380" height="100" rx="20" fill="#f8f9fa" />
+  
+  <!-- Abstract Tech Symbol -->
+  <path d="M70 70 L110 70 L130 100 L110 130 L70 130 L50 100 Z" fill="#2563eb" />
+  <circle cx="90" cy="100" r="15" fill="#f8f9fa" />
+  <path d="M85 95 L95 95 L100 100 L95 105 L85 105 L80 100 Z" fill="#2563eb" />
+  
+  <!-- Connection Lines -->
+  <line x1="145" y1="90" x2="160" y2="90" stroke="#2563eb" stroke-width="4" stroke-linecap="round" />
+  <line x1="145" y1="100" x2="160" y2="100" stroke="#2563eb" stroke-width="4" stroke-linecap="round" />
+  <line x1="145" y1="110" x2="160" y2="110" stroke="#2563eb" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Text Elements -->
+  <text x="170" y="90" font-family="'Poppins', sans-serif" font-size="24" font-weight="700" fill="#2563eb">WORLD'S BEST</text>
+  <text x="170" y="118" font-family="'Poppins', sans-serif" font-size="22" font-weight="600" fill="#1e293b">ORGANIZATION</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="365" cy="75" r="8" fill="#3b82f6" opacity="0.7" />
+  <circle cx="345" cy="65" r="5" fill="#3b82f6" opacity="0.5" />
+  <circle cx="355" cy="125" r="6" fill="#3b82f6" opacity="0.6" />
+  <path d="M340 115 Q350 125, 360 115" stroke="#3b82f6" stroke-width="3" fill="none" />
+</svg>
